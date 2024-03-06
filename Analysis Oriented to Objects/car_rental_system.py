@@ -43,7 +43,6 @@ class Cliente:
         self.telefone = telefone
         self.email = email
 
-
     def alugar_carro(self, automovel):
         automovel.alugar(self)
 
