@@ -7,6 +7,7 @@ public class Main {
         int opcao;
 
         do {
+
             exibirMenu();
             opcao = scanner.nextInt();
             scanner.nextLine();
